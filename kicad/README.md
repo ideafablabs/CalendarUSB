@@ -1,1 +1,3 @@
 coming soon ...
+
+<img height="200"  src="https://raw.githubusercontent.com/ideafablabs/CalendarUSB/main/kicad/calendar_usb1.png"><img height="200" src="https://raw.githubusercontent.com/ideafablabs/CalendarUSB/main/kicad/calendar_usb2.png"><img height="200" src="https://raw.githubusercontent.com/ideafablabs/CalendarUSB/main/kicad/calendar_usb3.png">
